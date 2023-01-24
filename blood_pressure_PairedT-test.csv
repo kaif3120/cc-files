@@ -1,0 +1,23 @@
+patient,gender,agegrp,bp_before,bp_after,,,,
+1,Male,30-45,143,153,,t-Test: Paired Two Sample for Means,,
+2,Male,30-45,163,170,,,,
+3,Male,30-45,153,168,,,bp_before,bp_after
+4,Male,30-45,153,142,,Mean,153.45,146.45
+5,Male,30-45,146,141,,Variance,99.10263158,197.6289474
+6,Male,30-45,150,147,,Observations,20,20
+7,Male,30-45,148,133,,Pearson Correlation,-0.102312161,
+8,Male,30-45,153,141,,Hypothesized Mean Difference,0,
+9,Male,30-45,153,131,,df,19,
+10,Male,30-45,158,125,,t Stat,1.735502877,
+11,Male,30-45,149,164,,P(T<=t) one-tail,0.049421278,
+12,Male,30-45,173,159,,t Critical one-tail,1.729132812,
+13,Male,30-45,165,135,,P(T<=t) two-tail,0.098842556,
+14,Male,30-45,145,159,,t Critical two-tail,2.093024054,
+15,Male,30-45,143,153,,,,
+16,Male,30-45,152,126,,Total Value,1.817318945,
+17,Male,30-45,141,162,,Hypothesis,H0 is accepted,
+18,Male,30-45,176,134,,,,
+19,Male,30-45,143,136,,,,
+20,Male,30-45,162,150,,,,
+,,,153.45,146.45,Mean,,,
+,,,9.955030466,14.05805632,STDEV,,,
